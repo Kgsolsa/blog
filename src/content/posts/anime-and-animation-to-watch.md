@@ -9,7 +9,7 @@ tags:
   - movie
   - light-novel
 imageAlt: "Picture of a character in World's End Harem"
-image: "[[attachments/mountains.png]]"
+image: "[[attachments/World's_End_Harem.jpg]]"
 imageOG: false
 hideCoverImage: false
 targetKeyword: "Anime"
@@ -21,7 +21,7 @@ draft: false
 
 Discover amazing new anime and western animation for your enjoyment. Explore my curated watchlist now!
 
-![Mountains](/posts/attachments/mountains.png)
+![Shota Doi from World's End Harem smiling](/posts/attachments/World's_End_Harem.jpg)
 
 Here’s my ever‑growing list of anime and western animations to check out!
 
