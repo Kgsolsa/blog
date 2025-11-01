@@ -22,7 +22,7 @@ Discover amazing new anime and western animation for your enjoyment. Explore my 
 
 ![A character from World's End Harem looking excited](/public/posts/attachments/World's_End_Harem.jpg)
 
-image:(/posts/attachments/mountains.png)
+image: "[[attachments/mountains.png]]"
 Here’s my ever‑growing list of anime and western animations to check out!
 
 ## Anime & Animation
