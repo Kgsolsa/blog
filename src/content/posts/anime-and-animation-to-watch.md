@@ -9,6 +9,7 @@ tags:
   - movie
   - light-novel
 imageAlt: "Picture of a character in World's End Harem"
+image: "[[attachments/mountains.png]]"
 imageOG: false
 hideCoverImage: false
 targetKeyword: "Anime"
