@@ -241,7 +241,7 @@ export const siteConfig: SiteConfig = {
   featureButton: "mode", // "mode" | "graph" | "theme" | "none"
   deployment: {
     // [CONFIG:DEPLOYMENT_PLATFORM]
-    platform: "netlify", // "netlify" | "vercel" | "github-pages" - sets redirect configuration for the chosen platform
+    platform: "cloudflare-workers", // "netlify" | "vercel" | "github-pages" - sets redirect configuration for the chosen platform
   },
 
   // Command Palette
