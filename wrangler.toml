@@ -1,6 +1,6 @@
 name = "blog"
 compatibility_date = "2025-04-01"
-compatibility_flags= ["nodejs_compat","global_fetch_strictly_public"]
+compatibility_flags= ["nodejs_compat"]
 workers_dev = true
 [observability]
 [observability.logs]
@@ -9,7 +9,9 @@ head_sampling_rate = 1
 invocation_logs = true
 persist = true
 
+[assets]
 directory = "./dist"
+
 main = "src/config.ts"
 [build]
   publish = "dist"
