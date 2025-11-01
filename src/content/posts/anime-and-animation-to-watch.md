@@ -21,7 +21,8 @@ draft: false
 
 Discover amazing new anime and western animation for your enjoyment. Explore my curated watchlist now!
 
-![Shota Doi from World's End Harem smiling](/posts/attachments/World's_End_Harem.jpg)
+![Shota Doi](/posts/attachments/World's_End_Harem.jpg)
+*Shota Doi from World's End Harem smiling*
 
 Here’s my ever‑growing list of anime and western animations to check out!
 
