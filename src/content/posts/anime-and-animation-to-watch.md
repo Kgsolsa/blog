@@ -21,7 +21,7 @@ draft: false
 
 Discover amazing new anime and western animation for your enjoyment. Explore my curated watchlist now!
 
-![A character from World's End Harem looking excited] (/posts/attachments/mountains.png)
+![Mountains](/posts/attachments/mountains.png)
 
 Here’s my ever‑growing list of anime and western animations to check out!
 
