@@ -4,7 +4,7 @@ compatibility_flags= ["nodejs_compat","global_fetch_strictly_public"]
 workers_dev = true
 
 directory = "./dist"
-main = "src/index.ts"
+main = "src/config.ts"
 [build]
   publish = "dist"
   command = "pnpm run build"
