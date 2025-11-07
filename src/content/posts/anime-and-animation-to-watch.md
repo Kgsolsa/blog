@@ -28,29 +28,29 @@ Here’s my ever‑growing list of anime and western animations to check out!
 ## Anime & Animation
 
 ### Anime
-- **Maoyuu Archenemy and Hero**
-- **Kage**
-- **Street Fighter**
+- *Maoyuu Archenemy and Hero*
+- *Kage*
+- *Street Fighter*
 - *The Case Study of Vanitas*
 - *Welcome to the Ballroom*
-- *Tougen Anki* (consider adding macron: *Tōgen Anki*)
-- *Lord of the Mysteries* (novel adaptation)
+- *Tougen Anki* 
+- *Lord of the Mysteries*
 - *Witch Hat Atelier*
 - *Sentenced to Be a Hero*
 - *Spare Me, Great Lord!*
 - *Lazarus*
 - *Ninja Girl & Samurai Master*
-- *Kuiyu Chōyuān* (verify romanization)
+- *Kuiyu Chōyuān*
 - *Granblue Fantasy: The Animation*
 - *Mushishi*
 - *Noragami*
 - *Sengoku Yōko*
 - *The Newbie Adventurer* (originally “The Ossan Newbie Adventurer”)
-- *Gakuen Handsome* (verify title)
+- *Gakuen Handsome* 
 - *You’re Being Summoned, Azazel*
-- *Wistoria Wand* (verify spelling)
+- *Wistoria Wand* 
 - *Trinity Blood*
-- *Soulmate Adventure* (check existence)
+- *Soulmate Adventure*
 
 ### Movies
 - *Meet the Spartans*
