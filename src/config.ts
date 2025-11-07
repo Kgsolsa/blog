@@ -182,11 +182,11 @@ export const siteConfig: SiteConfig = {
   // [CONFIG:SITE_URL]
   site: "https://astro-modular.netlify.app",
   // [CONFIG:SITE_TITLE]
-  title: "Astro Modular",
+  title: "Kurippusu's Blog",
   // [CONFIG:SITE_DESCRIPTION]
-  description: "A flexible blog theme designed for Obsidian users.",
+  description: "My simple blog for anime and stuff 😄.",
   // [CONFIG:SITE_AUTHOR]
-  author: "David V. Kimball",
+  author: "Kurippusu wa Korosu",
   // [CONFIG:SITE_LANGUAGE]
   language: "en",
   // [CONFIG:FAVICON_THEME_ADAPTIVE]
@@ -196,7 +196,7 @@ export const siteConfig: SiteConfig = {
 
   // Global Settings
   // [CONFIG:THEME]
-  theme: "oxygen", // Available themes: "minimal" | "oxygen" | "atom" | "ayu" | "catppuccin" | "charcoal" | "dracula" | "everforest" | "flexoki" | "gruvbox" | "macos" | "nord" | "obsidian" | "rose-pine" | "sky" | "solarized" | "things" | "custom"
+  theme: "dracula", // Available themes: "minimal" | "oxygen" | "atom" | "ayu" | "catppuccin" | "charcoal" | "dracula" | "everforest" | "flexoki" | "gruvbox" | "macos" | "nord" | "obsidian" | "rose-pine" | "sky" | "solarized" | "things" | "custom"
   // [CONFIG:CUSTOM_THEME_FILE]
   customThemeFile: "custom", // Only used if theme is set to "custom" above. Filename in src/themes/custom/ (without .ts extension)
   // [CONFIG:AVAILABLE_THEMES]
@@ -241,7 +241,7 @@ export const siteConfig: SiteConfig = {
   featureButton: "mode", // "mode" | "graph" | "theme" | "none"
   deployment: {
     // [CONFIG:DEPLOYMENT_PLATFORM]
-    platform: "netlify", // "netlify" | "vercel" | "github-pages" | "cloudflare-workers" - sets redirect configuration for the chosen platform (Cloudflare Workers uses Workers-compatible config)
+    platform: "cloudflare-workers", // "netlify" | "vercel" | "github-pages" | "cloudflare-workers" - sets redirect configuration for the chosen platform (Cloudflare Workers uses Workers-compatible config)
   },
 
   // Command Palette
@@ -312,20 +312,19 @@ export const siteConfig: SiteConfig = {
     pages: [
       { title: "Posts", url: "/posts" },
       { title: "Projects", url: "/projects" },
-      { title: "Docs", url: "/docs" },
       { title: "About", url: "/about" },
-      { title: "GitHub", url: "https://github.com/davidvkimball/astro-modular" },
+      { title: "GitHub", url: "https://github.com/kgsolsa" },
     ],
     // [CONFIG:NAVIGATION_SOCIAL]
     social: [
       {
         title: "X",
-        url: "https://x.com/davidvkimball",
+        url: "https://x.com/Kurippusu",
         icon: "x-twitter",
       },
       {
         title: "GitHub",
-        url: "https://github.com/davidvkimball",
+        url: "https://github.com/kgsolsa",
         icon: "github",
       },
     ],
@@ -336,7 +335,7 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:OPTIONAL_CONTENT_TYPES_PROJECTS]
     projects: true, // Enable projects section
     // [CONFIG:OPTIONAL_CONTENT_TYPES_DOCS]
-    docs: true, // Enable documentation section
+    docs: false, // Enable documentation section
   },
 
   // Home Options
@@ -363,7 +362,7 @@ export const siteConfig: SiteConfig = {
     },
     docs: {
       // [CONFIG:HOME_OPTIONS_DOCS_ENABLED]
-      enabled: true, // Show featured docs on homepage
+      enabled: false, // Show featured docs on homepage
       // [CONFIG:HOME_OPTIONS_DOCS_COUNT]
       count: 3, // Number of docs to show
     },
@@ -413,7 +412,7 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:POST_OPTIONS_COMMENTS_PROVIDER]
       provider: "giscus",
       // [CONFIG:POST_OPTIONS_COMMENTS_REPO]
-      repo: "davidvkimball/astro-modular",
+      repo: "kgsolsa/astro",
       // [CONFIG:POST_OPTIONS_COMMENTS_REPO_ID]
       repoId: "R_kgDOPllfKw",
       // [CONFIG:POST_OPTIONS_COMMENTS_CATEGORY]
