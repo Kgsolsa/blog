@@ -1,8 +1,8 @@
-# Cloudflare Workers Configuration
+astro-modularstro-modular Cloudflare Workers Configuration
 # This file is automatically updated by the build process
 # See: https://developers.cloudflare.com/workers/static-assets/migration-guides/migrate-from-pages/
 
-name = "astro-modular"
+name = "blog"
 compatibility_date = "2025-01-15"
 
 [assets]
