@@ -25,6 +25,8 @@ const seoData = {
 
 // Set proper status code
 Astro.response.status = 404;
+const imageUrl =
+'https://pin.it/2vvbO9oRS';
 ---
 
 <BaseLayout seoData={seoData}>
@@ -47,6 +49,8 @@ Astro.response.status = 404;
       {pageContent ? (
         <!-- Custom 404 content -->
         <div class="prose prose-sm dark:prose-dark mx-auto mb-8">
+        <img src={imageUrl} alt="Aoi Todo" class="w-48 h-48 mx-auto rounded-full border-4 border-primary-400 dark:border-primary-500" />
+      
           <pageContent.Content />
         </div>
       ) : (
