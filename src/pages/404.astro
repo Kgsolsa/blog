@@ -25,7 +25,6 @@ const seoData = {
 
 // Set proper status code
 Astro.response.status = 404;
-
 ---
 
 <BaseLayout seoData={seoData}>
@@ -42,12 +41,12 @@ Astro.response.status = 404;
       </h1>
 
       <h2 class="font-semibold text-primary-700 dark:text-primary-300 mb-6">
-         Aoi Todo couldn't find that page.
+        Page Not Found
       </h2>
 
       {pageContent ? (
         <!-- Custom 404 content -->
-        <div class="prose prose-sm dark:prose-dark mx-auto mb-8">    
+        <div class="prose prose-sm dark:prose-dark mx-auto mb-8">
           <pageContent.Content />
         </div>
       ) : (
