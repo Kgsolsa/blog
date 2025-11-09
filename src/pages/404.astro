@@ -18,7 +18,7 @@ try {
 // SEO data for 404 page
 const seoData = {
   title: `Page Not Found | ${siteConfig.title}`,
-  description: "Aoi Todo couldn't find the page you are looking for could not be found.",
+  description: 'The page you are looking for could not be found.',
   canonical: Astro.url.href,
   ogType: 'website' as const
 };
@@ -31,26 +31,22 @@ const imageUrl = 'https://pin.it/2vvbO9oRS'; //
 ---
 
 <BaseLayout seoData={seoData}>
-  <div class="min-h-[60vh] flex items-center justify-center py-12" style="background-image: linear-gradient(to bottom, #2c3e50, #3498db);">
+  <div class="min-h-[60vh] flex items-center justify-center py-12">
     <div class="mx-auto px-4 sm:px-6 lg:px-8 text-center" style={`max-width: ${siteConfig.layout.contentWidth}`}>
-      <!-- Aoi Todo's eerie smile -->
+      <!-- Error icon -->
       <div class="mb-8">
-        <Icon name="smile" class="w-24 h-24 mx-auto text-primary-400 dark:text-primary-500" />
+        <Icon name="file-x" class="w-12 h-12 text-primary-400 dark:text-primary-500 mx-auto" />
       </div>
 
       <!-- Error message -->
       <h1 class="text-2xl font-bold text-primary-900 dark:text-primary-50 mb-4">
-        Boogie Woogie 👏🏾: Page Not Found
+        404.
+        My 540,000 IQ  brain has detected you're lost.
       </h1>
 
       <h2 class="font-semibold text-primary-700 dark:text-primary-300 mb-6">
-        My 540,000 IQ  brain has detected you're lost.
+        Boogie Woogie 👏🏾: Page Not Found
       </h2>
-
-      <!-- Aoi Todo's quote -->
-      <p class="text-lg text-primary-600 dark:text-primary-300 mb-4">
-        "I'll play a game with you... If you lose, you'll never leave this place."
-      </p>
 
       {pageContent ? (
         <!-- Custom 404 content -->
@@ -61,28 +57,13 @@ const imageUrl = 'https://pin.it/2vvbO9oRS'; //
         <!-- Default 404 content -->
         <div class="mb-8">
           <p class="text-lg text-primary-600 dark:text-primary-300 mb-4">
-            It seems that the page you're looking for has been sealed away by a powerful cursed technique.
+            Sorry, we couldn't find the page you're looking for. The page may have been moved, deleted, or the URL might be incorrect.
           </p>
           <p class="text-primary-500 dark:text-primary-400">
             Don't worry though, there's plenty of other content to explore!
           </p>
         </div>
       )}
-
-      <!-- Search bar -->
-      <form class="mb-8">
-        <input 
-          type="search" 
-          placeholder="Try to escape..." 
-          class="px-4 py-2 border border-primary-300 dark:border-primary-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-highlight-500"
-        >
-        <button 
-          type="submit" 
-          class="btn-primary ml-2"
-        >
-          Play Along
-        </button>
-      </form>
     </div>
   </div>
 </BaseLayout>
