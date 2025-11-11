@@ -13,9 +13,11 @@ targetKeyword: Anime
 hideTOC: false
 draft: false
 ---
+
 #Anime & Animation watched list
 ![Kuro](/posts/attachments/Under-Ninja.png)
-*Kuro from Under Ninja , a peak anime *
+
+*Kuro from Under Ninja a peak anime *
 
 Started watching anime in 2021, but I didn’t keep track back then. Now, I can save my list here! 😅
 
