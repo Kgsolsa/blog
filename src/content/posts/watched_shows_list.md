@@ -12,7 +12,7 @@ hideCoverImage: false
 targetKeyword: Anime
 hideTOC: false
 draft: false
----Now 
+---
 
 # Anime & Animation watched list
 ![Kuro](/posts/attachments/Under-Ninja.png)
