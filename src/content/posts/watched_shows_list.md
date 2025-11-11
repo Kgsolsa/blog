@@ -15,6 +15,7 @@ draft: false
 ---
 
 # Anime & Animation watched list
+
 ![Kuro](/posts/attachments/Under-Ninja.png)
 
 *Kuro from Under Ninja a peak anime*
@@ -22,6 +23,7 @@ draft: false
 Started watching anime in 2021, but I didn’t keep track back then. Now I can save my list here! 😅
 
 Below is a curated list of anime together with animation I've watched, spanning various genres and styles:
+
 - Afro Samurai - dope animation 🔥
 - Ajin (Seasons 1-2) (Completed) 
 - Akame ga Kill! 
@@ -35,7 +37,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Baki (Seasons 1–3) 🔥🔥
 - Bastard (ecchi  trash won't watch again 👎🏾 ) (Seasons 1- )
 - Basilisk 🔥🔥
-- Berserk (OSTs 🔥🔥 animation 🔥🔥)
+- Berserk 1997 (OSTs 🔥🔥 animation 🔥🔥)
 - Berserk of Gluttony (Seasons 1-)
 - Boku No Pico (💀)
 - Blade of the Immortal (Seasons 1-)
@@ -81,7 +83,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Happy Family ( Seasons 1-) 
 - Heavenly Delusion (Season 1-) (good)
 - Hell’s Paradise (Seasons 1-)( Peak 🔥🔥)
-- Highschool of the Dead
+- Highschool of the Dead (Seasons 1-) (RIP manga author)
 - Hit Monkey ( Seasons 1-2)(fucking awesome 🔥)
 - Hundred
 - Hidden Dungeon Only I can Enter(Season 1-)
