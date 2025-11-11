@@ -12,14 +12,14 @@ hideCoverImage: false
 targetKeyword: Anime
 hideTOC: false
 draft: false
----
+---Now 
 
-#Anime & Animation watched list
+# Anime & Animation watched list
 ![Kuro](/posts/attachments/Under-Ninja.png)
 
-*Kuro from Under Ninja a peak anime *
+*Kuro from Under Ninja a peak anime*
 
-Started watching anime in 2021, but I didn’t keep track back then. Now, I can save my list here! 😅
+Started watching anime in 2021, but I didn’t keep track back then. Now I can save my list here! 😅
 
 Below is a curated list of anime together with animation I've watched, spanning various genres and styles:
 - Afro Samurai - dope animation 🔥
