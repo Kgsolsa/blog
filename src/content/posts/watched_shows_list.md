@@ -133,6 +133,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Ragna Crimson (Seasons 1-) (Ragna 🐐 🔥🔥🔥)
 - Record of Ragnarok (Seasons 1-2) (Buddha 🔥🔥)
 - Reincarnated as a Slime (Seasons 1–3) (🔥🔥)
+- Reincarnated as the 7th Prince (Seasons 1-) (Average)
 - Requiem of the Phantom (mid)
 - Ron Kamonohashi’s Forbidden Deductions (Seasons 1–2) (really good with dope OPs 🔥)
 - Saiki K (Seasons 1-2)
