@@ -91,6 +91,13 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - Orb: On the Movements of the Earth
 - The Daily Life of The Immortal King
 
+### Horror isekai
+- Dungeon Seeker
+- Corpse Party: Blood Covered
+- Wicked Trapper: Hunter of Heroes
+- Isekai Executioner: The Serial Killer in Another World
+
+
 ---
 
 Happy watching!  
