@@ -1,6 +1,7 @@
+---
 title: Quote
 date: 2025-11-11
-description: Check out what shows I've watched
+description: Interesting quotes
 tags:
   - humans
 
