@@ -105,6 +105,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Kabaneri of The Iron Fortress (trash)
 - Kore wa Zombie Desu ka? (Seasons 1-)
 - Kurozuka
+- Lazarus (Mappa cooked 🔥)
 - Legend of Korra (Seasons 1-4) (bo need to watch this just finish Aang and move on bruh)
 - Legend of Vox Machina (Seasons 1-4) (🔥🔥🔥)
 - Love , Death and Robots ( Seasons 1-2) (really good )
