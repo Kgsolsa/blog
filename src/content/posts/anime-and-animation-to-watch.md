@@ -43,6 +43,7 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - *Kuiyu Chōyuān*
 - *Granblue Fantasy: The Animation*
 - *Mushishi*
+- *Mighty Rein*
 - *Noragami*
 - *Sengoku Yōko*
 - *The Newbie Adventurer* (originally “The Ossan Newbie Adventurer”)
