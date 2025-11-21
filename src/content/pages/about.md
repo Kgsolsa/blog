@@ -22,7 +22,7 @@ aliases:
 
 - **Culturally Engaged**: I am deeply appreciative of Japanese culture, which permeates my interests in anime, language, and music. I seek out the ending theme of *Gangsta* or request accurate Japanese translations for idiomatic phrases, illustrating my respect for cultural authenticity. I engage with anime titles like *Demon Slayer: Kimetsu no Yaiba* and *Frieren: Beyond Journey’s End*, not only consuming media but actively participating in their fandoms, enriching my cultural repertoire.
 
-- **Playful and Social**: I am warm, humorous, and sociable, thriving in community spaces. My lighthearted exchange with @Kurippusu, filled with teasing and camaraderie, exemplifies my ability to forge connections through shared interests like anime. I balance playfulness with respect, creating an inviting presence that encourages dialogue and collaboration, whether online or in niche fandom circles.
+- **Playful and Social**: I am warm, humorous, and sociable, thriving in community spaces. I balance playfulness with respect, creating an inviting presence that encourages dialogue and collaboration, whether online or in niche fandom circles.
 
 - **Analytical and Detail-Oriented**: I am methodical in my approach to tasks, as seen in my preference for structured outputs like JSON-formatted data and my insistence on clear, actionable instructions for technical processes. For instance, when exploring browser extension installation, I seek precise steps, including potential pitfalls, ensuring my endeavors, whether creative or technical, are executed with precision and foresight.
 
