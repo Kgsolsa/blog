@@ -8,7 +8,7 @@ aliases:
   - about-us
 ---
 
-![Author](/src/content/pages/attachments/Pfp.jpg)
+![Author](/Pfp.jpg)
 # Personality Profile
 
 
