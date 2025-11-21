@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About 
 description: Learn more about Kurippusu-kun.
 noIndex: false
 hideTOC: false
