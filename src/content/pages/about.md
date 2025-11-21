@@ -1,12 +1,14 @@
 ---
-title: About
-description: Learn more about Astro Modular and the philosophy behind its design approach.
+title: About me
+description: Learn more about Kurippusu-kun.
 noIndex: false
 hideTOC: false
 aliases:
   - about-me
   - about-us
 ---
+
+![Author](/public/attachments/Pfp.png)
 # Personality Profile
 
 
