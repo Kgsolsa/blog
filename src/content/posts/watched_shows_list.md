@@ -48,7 +48,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Castlevania Nocturne (Seasons 1-3) (Peak show 🔥)
 - Call of the night (Season 1- ) 
 - Cautious Hero (Season 1)
-- Chained Soldier (Seasons 1-) ( peak for men of culture 😂🔥) (/posts/attachments/anime-pics/Chained Soldier.png)
+- Chained Soldier (Seasons 1-) ( peak for men of culture 😂🔥) 
 - Chainsaw Man (Seasons 1-) (🐐🔥)
 - Claymore (Seasons 1-) (good)
 - Code Geass (🔥🔥)
@@ -88,7 +88,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Hundred
 - Hidden Dungeon Only I can Enter(Season 1-)
 - Headhunted to Another World(Season 1-)
-- Hellsing OG and Ultimate(My favorites with OG having really good OSTs 😅)
+- Hellsing OG and Ultimate(My favorites with OG having really good OSTs 😅) (/posts/attachments/anime-pics/Hellsing 1.png
 - Ichi the Killer
 - Inuyashiki (almost shed a tear)
 - Inside Job ( Seasons 1-)
