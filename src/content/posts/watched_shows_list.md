@@ -39,7 +39,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Basilisk 🔥🔥
 - Berserk 1997 (OSTs 🔥🔥 animation 🔥🔥)
 - Berserk of Gluttony (Seasons 1-)
-- B![Shota Doi](/posts/attachments/World's_End_Harem.jpg)oku No Pico (💀)
+- Boku No Pico (💀)
 - Blade of the Immortal (Seasons 1-)
 - Bleach and TYBW(continuing)  🔥🔥 
 - Blood of Zeus (Seasons 1–4) (Completed)  🔥🔥
