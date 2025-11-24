@@ -39,7 +39,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Basilisk 🔥🔥
 - Berserk 1997 (OSTs 🔥🔥 animation 🔥🔥)
 - Berserk of Gluttony (Seasons 1-)
-- Boku No Pico (💀)
+- B![Shota Doi](/posts/attachments/World's_End_Harem.jpg)oku No Pico (💀)
 - Blade of the Immortal (Seasons 1-)
 - Bleach and TYBW(continuing)  🔥🔥 
 - Blood of Zeus (Seasons 1–4) (Completed)  🔥🔥
@@ -48,7 +48,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Castlevania Nocturne (Seasons 1-3) (Peak show 🔥)
 - Call of the night (Season 1- ) 
 - Cautious Hero (Season 1)
-- Chained Soldier (Seasons 1-) ( peak for men of culture 😂🔥)
+- Chained Soldier (Seasons 1-) ( peak for men of culture 😂🔥) (/posts/attachments/anime-pics/Chained Soldier.png)
 - Chainsaw Man (Seasons 1-) (🐐🔥)
 - Claymore (Seasons 1-) (good)
 - Code Geass (🔥🔥)
