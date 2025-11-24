@@ -38,7 +38,7 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - *Witch Hat Atelier*
 - *Sentenced to Be a Hero*
 - *Spare Me, Great Lord!*
-- *Lazarus*
+- ~~*Lazarus*~~
 - *Ninja Girl & Samurai Master*
 - *Kuiyu Chōyuān*
 - *Granblue Fantasy: The Animation*
@@ -89,7 +89,7 @@ Here’s my ever‑growing list of anime and western animations to check out!
 ### Other
 - Death Mount Death Play
 - Btoom!
-- Orb: On the Movements of the Earth
+- ~~Orb: On the Movements of the Earth~~
 - The Daily Life of The Immortal King
 
 ### Horror isekai
