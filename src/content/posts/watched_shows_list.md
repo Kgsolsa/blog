@@ -89,6 +89,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Hidden Dungeon Only I can Enter(Season 1-)
 - Headhunted to Another World(Season 1-)
 - Hellsing OG and Ultimate ![Jan Valentine](/posts/attachments/anime-pics/Hellsing1.png) 
+ *Jan Valentine*
 - Ichi the Killer
 - Inuyashiki (almost shed a tear)
 - Inside Job ( Seasons 1-)
