@@ -88,7 +88,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Hundred
 - Hidden Dungeon Only I can Enter(Season 1-)
 - Headhunted to Another World(Season 1-)
-- Hellsing OG and Ultimate(My favorites with OG having really good OSTs 😅) (/posts/attachments/anime-pics/Hellsing 1.png)
+- Hellsing OG and Ultimate (/posts/attachments/anime-pics/Hellsing 1.png)
 - Ichi the Killer
 - Inuyashiki (almost shed a tear)
 - Inside Job ( Seasons 1-)
