@@ -99,7 +99,7 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - Isekai Executioner: The Serial Killer in Another World
 
 - Water Magician ( watch ASAP)
-
+- No Game No Life
 ---
 
 Happy watching!  
