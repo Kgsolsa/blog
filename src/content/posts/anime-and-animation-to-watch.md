@@ -98,6 +98,7 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - Wicked Trapper: Hunter of Heroes
 - Isekai Executioner: The Serial Killer in Another World
 
+- Water Magician ( watch ASAP)
 
 ---
 
