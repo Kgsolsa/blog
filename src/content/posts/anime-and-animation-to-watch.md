@@ -100,6 +100,7 @@ Here’s my ever‑growing list of anime and western animations to check out!
 
 - Water Magician ( watch ASAP)
 - No Game No Life
+- Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, but Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out for Revenge on My Former Party Members and the World
 ---
 
 Happy watching!  
