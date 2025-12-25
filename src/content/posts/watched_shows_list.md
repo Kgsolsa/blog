@@ -49,7 +49,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Call of the night (Season 1- ) 
 - Cautious Hero (Season 1)
 - Chained Soldier (Seasons 1-) ( peak for men of culture 😂🔥) 
-- Chainsaw Man (Seasons 1-) (🐐🔥)
+- Chainsaw Man (Seasons 1-) (Reze Movie) (🐐🔥)
 - Claymore (Seasons 1-) (good)
 - Code Geass (🔥🔥)
 - Combatants Will Be Dispatched!
@@ -130,6 +130,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Omamori Himari
 - Overlord (Seasons 1-4) (peak anime & OPs and EPs 🔥)
 - Rakshasha Street (Seasons 1-4-) (Cao Yanbin 🐐 dope 🔥)
+- Re:Monster (Seasons 1-) (Trash will not watch again)
 - Record of Grancrest War (Completed)
 - Ragna Crimson (Seasons 1-) (Ragna 🐐 🔥🔥🔥)
 - Record of Ragnarok (Seasons 1-2) (Buddha 🔥🔥)
