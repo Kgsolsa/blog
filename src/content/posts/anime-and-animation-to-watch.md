@@ -89,7 +89,9 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - Btoom!
 - ~~Orb: On the Movements of the Earth~~
 - The Daily Life of The Immortal King
-
+- Darwin Incident 
+- Eleced
+- Demons of the shadow realm
 ### Horror isekai
 - Dungeon Seeker
 - Corpse Party: Blood Covered
