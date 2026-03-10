@@ -76,6 +76,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Gangsta. (Season 1-) ( good anime with no Sn 2 🥲)
 - Gachiakuta (Season 1-) Trash anime (pun intended 😂) 🔥🔥
 - God of High School (Seasons 1-)
+- Golden Kamuy (Seasons 1-4-) (really good and funny 🤣)
 - Grimoire of Zero (Seasons 1-)
 - Gungrave
 - Goblin Slayer (Seasons 1-2) (🔥🔥)
