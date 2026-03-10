@@ -121,6 +121,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Mushoku Tensei ( Seasons 1-3) (not bad)
 - Mulligan ( Seasons 1-)
 - Ninja Scroll 
+- Ninja Vs Gokudo
 - Neon Genesis Evangelion
 - No Guns Life (Seasons 1-2)
 - No Longer Allowed in Another World (Seasons 1-)
@@ -156,6 +157,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Tokyo Ghoul ( Seasons 1-4) (Completed) ( Kaneki Ken 🔥🔥)
 - To Your Eternity ( Seasons 1-2) (good anime. Watch this after checking out Made in Abyss)
 - The Kingdoms of Ruin ( Season 1-)
+- The Beginning After The End (Season 1- ) (boring)
 - That Time I Got Reincarnated as a Slime (Seasons 1–2)
 - The Master of Ragnarok & Blesser of Einherjar
 - The New Gate anime (Seasons 1- )
