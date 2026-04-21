@@ -52,6 +52,7 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - *Wistoria Wand* 
 - *Trinity Blood*
 - *Soulmate Adventure*
+- *100 Meters*
 
 ### Movies
 - *Meet the Spartans*
