@@ -180,7 +180,7 @@ export interface SiteConfig {
 export const siteConfig: SiteConfig = {
   // Site Information
   // [CONFIG:SITE_URL]
-  site: "blog.kurippusu.workers.dev",
+  site: "https://blog.kurippusu.workers.dev",
   // [CONFIG:SITE_TITLE]
   title: "Kurippusu's Blog",
   // [CONFIG:SITE_DESCRIPTION]
