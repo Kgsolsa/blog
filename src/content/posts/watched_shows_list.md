@@ -32,6 +32,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Arifureta: From Commonplace to World’s Strongest ( Season 1-2 , dropped)
 - Assassination Classroom (Seasons 1-2) (Completed)
 - Aoi Bungaku 
+- Apocalypse Bringer Mynoghra (Season 1-) Good 👍🏾
 - Attack on Titan ( Seasons 1-4) (Completed)
 - Ayakashi (Season 1-)
 - Baki (Seasons 1–3) 🔥🔥
@@ -83,6 +84,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Harem in the Labyrinth of Another World (Seasons 1-) ( at this point you should know what kind of man I am 😂)
 - Happy Family ( Seasons 1-) 
 - Heavenly Delusion (Season 1-) (good)
+- Hell Mode: The Hardcore Gamer Dominates in Another World (Season 1-) good 👍🏾 
 - Hell’s Paradise (Seasons 1-)( Peak 🔥🔥)
 - Highschool of the Dead (Seasons 1-) (RIP manga author)
 - Hit Monkey ( Seasons 1-2)(fucking awesome 🔥)
