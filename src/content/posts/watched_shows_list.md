@@ -81,6 +81,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Grimoire of Zero (Seasons 1-)
 - Gungrave
 - Goblin Slayer (Seasons 1-2) (🔥🔥)
+- I got a Cheat Skill in Another World and Became Unrivaled in The Real World (Unfinished - complete plot trash with good animation)
 - Harem in the Labyrinth of Another World (Seasons 1-) ( at this point you should know what kind of man I am 😂)
 - Happy Family ( Seasons 1-) 
 - Heavenly Delusion (Season 1-) (good)
