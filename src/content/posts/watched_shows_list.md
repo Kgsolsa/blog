@@ -9,7 +9,7 @@ tags:
 imageAlt: Kuro from Under Ninja looking "locked in"
 imageOG: false
 hideCoverImage: false
-targetKeyword: Anime
+targetKeyword: Anime,Isekai,Fantasy
 hideTOC: false
 draft: false
 ---
