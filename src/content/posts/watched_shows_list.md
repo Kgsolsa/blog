@@ -35,6 +35,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Apocalypse Bringer Mynoghra (Season 1-) Good 👍🏾
 - Attack on Titan ( Seasons 1-4) (Completed)
 - Ayakashi (Season 1-)
+- Backstabbed in a Backwater Dungeon: My Trusted Companions Tried to Kill Me, but Thanks to the Gift of an Unlimited Gacha I Got LVL 9999 Friends and Am Out for Revenge on My Former Party Members and the World (Season 1-) (Average)
 - Baki (Seasons 1–3) 🔥🔥
 - Bastard (ecchi  trash won't watch again 👎🏾 ) (Seasons 1- )
 - Basilisk 🔥🔥
@@ -63,10 +64,11 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Death Note (🐐)
 - Deadman Wonderland (Season 1) (dope)
 - Death Parade
-- Demon Slayer (Seasons 1-4) ( A 🐐 with peak animation and OPs and EDs)
+- Demon Slayer (Seasons 1-4)
+  Demon Slayer Infinty Castle ( A 🐐 with peak animation and OPs and EDs)
 - Dororo (good)
-- Dorohedoro (Seasons 1-) (Weird but very good 🔥)
-- Dr. Stone (Seasons 1–3) (A giant 🐐)
+- Dorohedoro (Seasons 1-2-) (Weird but very good 🔥)
+- Dr. Stone (Seasons 1–4) (A giant 🐐)
 - Drifters (Season 1) (share same author with Hellsing 😅 dope 🔥)
 - Duke of Death and His Maid (Seasons 1–2) ( Romance I like 🔥)
 - Ergo proxy ( weird anime I didn't like)
