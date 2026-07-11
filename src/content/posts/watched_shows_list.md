@@ -184,3 +184,8 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Wolf King (Season 1-2-) (not bad tbh)
 - Yasuke ( Seasons 1-)
 - Zom 100: Bucket List of the Dead (Seasons 1-)
+
+
+Manga Completed
+- Hell's Paradise 
+- World's End Harem
