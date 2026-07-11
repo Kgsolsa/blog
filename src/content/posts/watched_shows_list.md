@@ -147,6 +147,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Ron Kamonohashi’s Forbidden Deductions (Seasons 1–2) (really good with dope OPs 🔥)
 - Saiki K (Seasons 1-2)
 - Sekirei (Seasons 1-2)
+- Sentenced To Be a Hero (Season 1-)
 - Seraph of the End
 - Super Cube (Seasons 1- ) (🔥🔥)
 - Suicide Squad Isekai ( Seasons 1-) (cooked 🔥)
