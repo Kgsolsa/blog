@@ -187,5 +187,6 @@ Below is a curated list of anime together with animation I've watched, spanning 
 
 
 Manga Completed
+- Gantz
 - Hell's Paradise 
 - World's End Harem
