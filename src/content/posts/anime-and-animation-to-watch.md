@@ -53,6 +53,7 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - *Trinity Blood*
 - *Soulmate Adventure*
 - *100 Meters*
+- *Odd Taxi*
 
 ### Movies
 - *Meet the Spartans*
