@@ -1,5 +1,5 @@
 ---
-title: Kurippusu's watched anime and animation list
+title: Kurippusu's watched anime and animation list as well as manga
 date: 2025-11-11
 description: Check out what shows I've watched
 tags:
@@ -190,3 +190,4 @@ Manga Completed
 - Gantz
 - Hell's Paradise 
 - World's End Harem
+- Prison School 
