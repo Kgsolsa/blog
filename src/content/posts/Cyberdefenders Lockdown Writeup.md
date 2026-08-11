@@ -10,7 +10,7 @@ tags:
 imageAlt: "
 imageOG: false
 hideCoverImage: false
-targetKeyword: "Anime"
+targetKeyword: Cyberdefenders, DFIR
 hideTOC: false
 draft: false
 ---
