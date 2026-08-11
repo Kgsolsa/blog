@@ -7,7 +7,7 @@ tags:
   - cybersecurity
   - cyberdefenders
 
-imageAlt: "
+imageAlt: "Cyber Detective"
 imageOG: false
 hideCoverImage: false
 targetKeyword: Cyberdefenders, DFIR
@@ -17,7 +17,7 @@ draft: false
 
 
 #### Scenario
-![Cyber Detective](/posts/attachments/AI image of detective searching for clues.png)
+![Cyber Detective](/posts/attachments/AI_Detective.png)
 
 TechNova Systems’ SOC has detected suspicious outbound traffic from a public-facing IIS server in its cloud platform—activity suggestive of a web-shell drop and covert connections to an unknown host.
 
