@@ -15,7 +15,11 @@ hideTOC: false
 draft: false
 ---
 
+
 ![Cyber Detective](/posts/attachments/AI_Detective.png)
+
+
+
 
 #### Scenario
 
