@@ -16,13 +16,21 @@ draft: false
 ---
 
 
-#### Scenario
+
+
+
 
 
 ![Cyber Detective](/posts/attachments/AI_Detective.png)
 
 
 
+
+
+
+
+
+#### Scenario
 
 TechNova Systems’ SOC has detected suspicious outbound traffic from a public-facing IIS server in its cloud platform—activity suggestive of a web-shell drop and covert connections to an unknown host.
 
