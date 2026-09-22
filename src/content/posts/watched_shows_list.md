@@ -68,7 +68,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
   Demon Slayer Infinty Castle ( A 🐐 with peak animation and OPs and EDs)
 - Dororo (good)
 - Dorohedoro (Seasons 1-2-) (Weird but very good 🔥)
-- Dr. Stone (Seasons 1–4) (A giant 🐐)
+- Dr. Stone (Seasons 1–4) (Completed) (A giant 🐐)
 - Drifters (Season 1) (share same author with Hellsing 😅 dope 🔥)
 - Duke of Death and His Maid (Seasons 1–2) ( Romance I like 🔥)
 - Ergo proxy ( weird anime I didn't like)
@@ -126,7 +126,8 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Midori
 - Mushoku Tensei ( Seasons 1-3) (not bad)
 - Mulligan ( Seasons 1-)
-- Ninja Scroll 
+- Ninja Scroll
+- Nippon Sangoku
 - Ninja Vs Gokudo
 - Neon Genesis Evangelion
 - No Guns Life (Seasons 1-2)
