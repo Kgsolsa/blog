@@ -59,6 +59,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Creature Commandos (peak DC stuff 🔥🔥)
 - Cyberpunk: Edgerunners (Seasons 1-) (🔥🐐)
 - Dan Da Dan (Seasons 1-) (🔥🔥)
+- Darwin Incident
 - Dark Gathering (Season 1) (underrated 🐐 with banger OP 🔥)
 - Date A Live ( Seasons 1-2) (trash)
 - Death Note (🐐)
