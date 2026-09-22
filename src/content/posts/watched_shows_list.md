@@ -172,6 +172,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - The Quintessential Quintuplets (Seasons 1-) ( I hate romance anime )
 - The Unwanted Undead Adventurer (Season 1) ( Good music and anime 🔥)
 - The Witch and the Beast (Season 1) (🔥🔥)
+- The Exiled Heavy Knight Knows How to Game the System 
 - The Reincarnation of the Strongest Exorcist in Another World (Seasons 1-) (peak show 🔥)
 - The Elusive Samurai (Seasons 1- ) (funny,dope,cool,fire OP&ED)
 - To Your Eternity (Seasons 1-2)
