@@ -1,5 +1,5 @@
 ---
-title: "Kurippusu's Anime and Animation To Watch List 2025"
+title: "Kurippusu's Anime and Animation To Watch List 202X"
 date: 2025-09-10
 description: "Discover amazing new anime and western animation for your enjoyment. Explore my curated watchlist now!"
 tags:
@@ -35,10 +35,7 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - *Welcome to the Ballroom*
 - *Tougen Anki* 
 - *Lord of the Mysteries*
-- *Witch Hat Atelier*
-- *Sentenced to Be a Hero*
 - *Spare Me, Great Lord!*
-- ~~*Lazarus*~~
 - *Ninja Girl & Samurai Master*
 - *Kuiyu Chōyuān*
 - *Granblue Fantasy: The Animation*
@@ -85,24 +82,34 @@ Here’s my ever‑growing list of anime and western animations to check out!
 - Kyousou Giga
 - Legend of the Cursed Blood
 - Rooster Fighter
-
-### Other
 - Death Mount Death Play
 - Btoom!
 - ~~Orb: On the Movements of the Earth~~
 - The Daily Life of The Immortal King
-- Darwin Incident 
+- Darwin Incident
+- Witch and Hound
+- Sekiro No Defeat
+- Li Xion Mao
+- Blade and Bastard 
+- Tomb raider king
+- Psyren
+- Thunder 3
+- Penguin Highway
+- Angolmois
+- Onihei
+- In Spectre
+- This anime 
+   [Instagram Reel](https://www.instagram.com/reel/DcVhZSXi-vZ/)
+Sanguinus  the great angel
+- Altair : Record of battles 
 - Eleced
-- Demons of the shadow realm
 ### Horror isekai
 - Dungeon Seeker
 - Corpse Party: Blood Covered
 - Wicked Trapper: Hunter of Heroes
 - Isekai Executioner: The Serial Killer in Another World
-
 - Water Magician ( watch ASAP)
 - No Game No Life
-- Moriarty The Patriot
 ---
 
 Happy watching!  
