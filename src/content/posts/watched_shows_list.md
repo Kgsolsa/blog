@@ -96,6 +96,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Hidden Dungeon Only I can Enter(Season 1-)
 - Headhunted to Another World(Season 1-)
 - Hellsing OG and Ultimate ![Jan Valentine](/posts/attachments/anime-pics/Hellsing1.png) 
+- I'm a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet ( Seasons 1- ) (funny trash)
 - Ichi the Killer
 - Inuyashiki (almost shed a tear)
 - Inside Job ( Seasons 1-)
@@ -180,6 +181,7 @@ Below is a curated list of anime together with animation I've watched, spanning 
 - Tsukimichi: Moonlit Fantasy (Seasons 1–2) ( Makoto-dono 😂🔥🔥)
 - Tsugumomo (Seasons 1-)
 - Under Ninja (Seasons 1-) (peak weird show with dope OP 🔥)
+- Uglymug, Epicfighter (Season 1-) (average but not bad)
 - Val x Love (Season 1)
 - Vampire in the Garden (movie)
 - Vinland Saga ( Seasons 1-3)
